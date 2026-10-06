@@ -99,20 +99,6 @@ Raw Data → Cleaning → Feature Prep → Department & Role Analysis → Compen
 | **Outlier check** | Boxplots for `MonthlyIncome`, `DistanceFromHome`, and `Age` | Visual sanity check before analysis |
 | **Export** | Saved as `HR_Cleaned.csv` | Clean input for the Power BI dashboard |
 
-## 📈 Dashboard
-
-> 📸 **Add your Power BI screenshot here** (export it from Power BI and save it as `images/dashboard.png`):
->
-> `![HR Dashboard](images/dashboard.png)`
-
-The `.pbix` file cannot be previewed on GitHub, so a screenshot is the best way to show recruiters what you built.
-
-**Metrics analyzed (in the notebook and available for the dashboard):**
-- 👥 Headcount by department and job role
-- 📉 Attrition count and attrition rate
-- 💰 Average monthly income
-- ⏳ Average tenure (years at company)
-- 📈 Salary hike by department, role, and performance rating
 
 ## 💡 Key Insights
 
